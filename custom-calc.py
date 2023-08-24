@@ -1,4 +1,4 @@
-# Homework: Your job is to make a custom calculator. 
+ # Homework: Your job is to make a custom calculator. 
 # Your calculator should accept at least three values. 
 
 # For example height, width, length
